@@ -73,7 +73,7 @@ li{
     position: fixed;
     top: 0;
     left: 0;
-    width: 240px;
+    width: 180px;
     z-index: 99;
     padding: 10px 12px;
     background-color: var(--bg-color);
@@ -441,6 +441,11 @@ li{
     font-size: 12px;
     color: var(--border);
 }
+
+
+/* part of responsive */
+
+  
 
 /*********** Right Sidebar End **********/
 
